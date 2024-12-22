@@ -1,4 +1,4 @@
-module caddy-l4
+module caddy
 
 go 1.22.0
 
